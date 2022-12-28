@@ -1,8 +1,7 @@
 # Tugas Pertemuan 14
 
-Nama  : Ferdyana Eka Prsetya
-
-Nim   : 312210121
+Nama  : Frans Putra Sinaga
+Nim   : 312210046
 
 Kelas  : T1.22.A1
 
