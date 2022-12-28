@@ -1,7 +1,7 @@
 # Tugas Pertemuan 14
 
 Nama  : Frans Putra Sinaga
-/n
+ <br>
 Nim   : 312210046
 
 Kelas  : T1.22.A1
